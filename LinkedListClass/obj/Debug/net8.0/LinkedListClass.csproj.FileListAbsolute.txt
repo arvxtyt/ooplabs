@@ -1,0 +1,12 @@
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.AssemblyInfoInputs.cache
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.AssemblyInfo.cs
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.csproj.CoreCompileInputs.cache
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.sourcelink.json
+D:\epamdotnet\LinkedListClass\bin\Debug\net8.0\LinkedListClass.deps.json
+D:\epamdotnet\LinkedListClass\bin\Debug\net8.0\LinkedListClass.dll
+D:\epamdotnet\LinkedListClass\bin\Debug\net8.0\LinkedListClass.pdb
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.dll
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\refint\LinkedListClass.dll
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\LinkedListClass.pdb
+D:\epamdotnet\LinkedListClass\obj\Debug\net8.0\ref\LinkedListClass.dll

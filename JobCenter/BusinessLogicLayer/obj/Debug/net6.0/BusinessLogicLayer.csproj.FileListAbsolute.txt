@@ -1,0 +1,16 @@
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.sourcelink.json
+D:\epamdotnet\JobCenter\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\epamdotnet\JobCenter\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\epamdotnet\JobCenter\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\epamdotnet\JobCenter\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\epamdotnet\JobCenter\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\epamdotnet\JobCenter\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
